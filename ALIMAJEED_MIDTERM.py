@@ -1,3 +1,7 @@
+#Ali Majeed Khokhar
+
+#Question Number 1: Write a python code that sum up two numbers and subtract
+
 #Q:1 AIRTHMETIC OPERATIONS
 firstnum=int(input("enter the first num: "))
 secondnum=int(input("enter the sec num: "))
